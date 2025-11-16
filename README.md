@@ -1,12 +1,25 @@
-# React + Vite
+This project showcases a simple and elegant floating card built using React. The card smoothly lifts and floats when hovered, creating a subtle interactive effect. It’s a small UI feature, perfect for portfolios, landing pages, and component libraries.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
 
-Currently, two official plugins are available:
+Clean and minimal card design
+Smooth floating animation on hover
+Fully responsive
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Easy to reuse in any React project
+Tech Stack
+React.js
 
-## Expanding the ESLint configuration
+CSS / Tailwind (based on your implementation)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+How to Use
+
+Import the FloatingCard component
+Pass your content (title, text, image, etc.)
+Hover over the card to see the floating effect
+
+
+Future Improvements
+Add multiple animation styles
+Theme support (light/dark)
+Variants for different card types
