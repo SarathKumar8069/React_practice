@@ -11,7 +11,6 @@ Tech Stack
 React.js
 
 CSS / Tailwind (based on your implementation)
-
 How to Use
 
 Import the FloatingCard component
